@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :icy_parser, key: :value
+#     config :icy_stream, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:icy_parser, :key)
+#     Application.get_env(:icy_stream, :key)
 #
 # You can also configure a 3rd-party app:
 #

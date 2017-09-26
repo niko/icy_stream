@@ -1,4 +1,4 @@
-defmodule IcyStream do
+defmodule IcyStreamTest do
   use ExUnit.Case
   doctest IcyStream
 
